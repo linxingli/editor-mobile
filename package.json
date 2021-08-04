@@ -47,9 +47,6 @@
         "mediaQuery": false,
         "selectorBlackList": [
           ".van-",
-          ".ksui-",
-          "#ksui-",
-          ".ks-",
           ".filter-dialog-wrap"
         ]
       }
